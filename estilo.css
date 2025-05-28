@@ -1,0 +1,32 @@
+#registro-cuadro {
+    border: 2px solid blue; 
+    background-color: white; 
+    padding: 20px; 
+    width: 300px; 
+    margin: 20px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+#conocenos {
+    text-align: center; 
+    margin-top: 20px; 
+}
+#conocenos h2 {
+    color: blue; 
+}
+
+#productos {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; 
+}
+
+#contacto {
+    text-align: center; 
+    margin-top: 20px; 
+}
+#contacto h2 {
+    color: blue; 
+}
